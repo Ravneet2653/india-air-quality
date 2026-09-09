@@ -1,0 +1,4 @@
+pandas>=2.0
+requests>=2.31
+streamlit>=1.60
+altair>=5.0
