@@ -4,7 +4,7 @@ An end-to-end batch data pipeline that ingests hourly air-quality readings for
 eight Indian cities, derives the Indian CPCB National Air Quality Index,
 detects pollution spikes, and serves the result through a live dashboard.
 
-**Live dashboard:** _add your Streamlit URL here after deploying_
+**Live dashboard:** https://india-air-quality-lqy5sqqxwodf8kcggp36b5.streamlit.app/
 
 ---
 
